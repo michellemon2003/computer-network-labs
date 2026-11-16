@@ -19,10 +19,10 @@ A hub is the simplest L2 device: whatever arrives on one port is copied to every
 
 ```text
 switchyard-hub/
-¦§¦¡¦¡ myhub.py #hub
-¦§¦¡¦¡ hubtests.py #provided test scenario
-¦§¦¡¦¡ start_mininet.py #launcher
-¦¦¦¡¦¡ README.md
+â”œâ”€â”€ myhub.py #hub
+â”œâ”€â”€ hubtests.py #provided test scenario
+â”œâ”€â”€ start_mininet.py #launcher
+â””â”€â”€ README.md
 ```
 
 ## How the hub works

@@ -17,9 +17,9 @@ SDN separates the control plane (who decides where packets go) from the data pla
 
 ```text
 mininet-openflow-routing/
-¦§¦¡¦¡ dumbell.py # 2 switches, 4 hosts (dumbbell)
-¦§¦¡¦¡ rect.py # 5 switches, 4 hosts (rectangle with a central switch)
-¦¦¦¡¦¡ README.md
+â”œâ”€â”€ dumbell.py # 2 switches, 4 hosts (dumbbell)
+â”œâ”€â”€ rect.py # 5 switches, 4 hosts (rectangle with a central switch)
+â””â”€â”€ README.md
 ```
 
 ## 1. Custom topologies
