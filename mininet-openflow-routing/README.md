@@ -1,6 +1,9 @@
 # Mininet Topologies, Link-Delay Emulation & Controller-less OpenFlow Routing
 
-> Coursework labs (Computer Networks). The lab requirements and instructions were provided by the professor. The assigned tasks were implemented using course materials and AI assistance. I ran the experiments and verified the results, and documented the implementation with AI assistance to verify and support my understanding.
+
+> Coursework labs (Computer Networks). The lab requirements and instructions were provided by the professor. The assigned tasks were implemented using course materials and AI assistance. I ran the experiments and verified the results, and documented the implementation with AI assistance to support my understanding.
+
+Environment: Ubuntu Linux virtual machine running via Oracle VirtualBox, utilizing Mininet and Open vSwitch.
 
 ## Summary
 
